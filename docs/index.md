@@ -2,7 +2,7 @@
 
 This is so fun- I am loving life 
 
-## Commands
+## Updating to show that it does it automagically!!!!
 
 # RANDOM HEADER
 
